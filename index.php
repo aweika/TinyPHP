@@ -38,6 +38,7 @@ if(!empty($_POST['snippet'])) {
 <html id='labs' class='darkHead'>
 <head>
 <title>Tiny PHP :: prime labs</title>
+<meta charset='utf-8'>
 <meta name="Description" content="" />
 <meta property="og:title" content="" />
 <meta property="og:description" content="" />
